@@ -2958,6 +2958,21 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Pages\\Order.cshtml",
+      "TargetPath": "Pages\\Order.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages\\OrderSuccess.cshtml",
+      "TargetPath": "Pages\\OrderSuccess.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages\\About.cshtml",
+      "TargetPath": "Pages\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
