@@ -28,3 +28,4 @@ D:\Project\FourthCoffee\obj\Debug\netcoreapp2.2\FourthCoffee.Views.pdb
 D:\Project\FourthCoffee\obj\Debug\netcoreapp2.2\FourthCoffee.dll
 D:\Project\FourthCoffee\obj\Debug\netcoreapp2.2\FourthCoffee.pdb
 D:\Project\FourthCoffee\obj\Debug\netcoreapp2.2\FourthCoffee.csproj.CopyComplete
+D:\Project\FourthCoffee\obj\Debug\netcoreapp2.2\Razor\Pages\About.g.cshtml.cs
